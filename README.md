@@ -27,6 +27,6 @@ js-cientifico se encuentra bajo la licencia MIT.
 
 ### Contacto
 
-LinkedIn https://www.linkedin.com/in/mois%C3%A9s-luna-88a88017a/
 Email    moisesluna0390@gmail.com
+
 Twitter  @moilu6
