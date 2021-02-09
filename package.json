@@ -1,0 +1,24 @@
+{
+  "name": "cientifico",
+  "version": "1.0.0",
+  "description": "Single Page Aplication",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --mode production",
+    "start": "webpack-cli serve --mode development --open"
+  },
+  "keywords": [
+    "javascript",
+    "spa"
+  ],
+  "author": "Moises Luna <moisesluna0390@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.12.10",
+    "copy-webpack-plugin": "^7.0.0",
+    "html-webpack-plugin": "^4.5.0",
+    "webpack": "^5.11.1",
+    "webpack-cli": "^4.3.0",
+    "webpack-dev-server": "^3.11.1"
+  }
+}
