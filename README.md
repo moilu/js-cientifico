@@ -8,7 +8,7 @@ Esta SPA llama la API de Rick and Morty(https://rickandmortyapi.com/) y desplieg
 
 Aquí podrás encontrar un despliegue del proyecto: 
 
-(Link)
+https://js-cientifico.vercel.app/
 
 ## Instalación
 
